@@ -1,0 +1,28 @@
+#!/bin/bash
+
+	sudo mv -v /usr/share/gtksourceview-2.0/language-specs/php.lang /usr/share/gtksourceview-2.0/language-specs/php.lang.org
+
+		sudo cp -v php.lang /usr/share/gtksourceview-2.0/language-specs/php.lang
+		
+		sudo chmod 777 /usr/share/gtksourceview-2.0/language-specs/php.lang
+		
+	sudo chmod -x /usr/share/gtksourceview-2.0/language-specs/php.lang
+		
+
+	cp -v conflux.xml $HOME/.gnome2/gedit/styles/
+
+		chmod 777 $HOME/.gnome2/gedit/styles/conflux.xml
+		
+	chmod -x $HOME/.gnome2/gedit/styles/conflux.xml
+	
+	
+clear
+
+echo ""
+echo ""
+		echo ""
+		echo " Thank you for installing Conflux Theme by Julio Cabria."
+
+sleep 2
+
+exit
