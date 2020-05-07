@@ -29,14 +29,14 @@
   <_description>Color palette inspired by the crimson editor
   gedit theme by Dan VanMullen.</_description>
 
-  <color name="amber"                       value="#ccaa43"/>
-  <color name="cactus"                      value="#88cc43"/>
-  <color name="mint"                 		value="#43cc65"/>
-  <color name="ice"							value="#43cccc"/>
-  <color name="indigo"						value="#4365cc"/>
-  <color name="mauve"						value="#8843cc"/>
-  <color name="amaranth"					value="#cc43aa"/>
-  <color name="crimson"						value="#cc4343"/>
+  <color name="amber"                value="#ccaa43"/>
+  <color name="cactus"               value="#88cc43"/>
+  <color name="mint"                   value="#43cc65"/>
+  <color name="ice"                      value="#43cccc"/>
+  <color name="indigo"                value="#4365cc"/>
+  <color name="mauve"               value="#8843cc"/>
+  <color name="amaranth"          value="#cc43aa"/>
+  <color name="crimson"             value="#cc4343"/>
 
   <color name="black"						value="#1E1F29"/>
   <color name="grey"						value="#444444"/>
