@@ -38,9 +38,9 @@
   <color name="amaranth"          value="#cc43aa"/>
   <color name="crimson"             value="#cc4343"/>
 
-  <color name="black"						value="#1E1F29"/>
-  <color name="grey"						value="#444444"/>
-  <color name="white"						value="#FFFFFF"/>	
+  <color name="black"                  value="#1E1F29"/>
+  <color name="grey"                    value="#444444"/>
+  <color name="white"                  value="#FFFFFF"/>	
 
 <!--GUI styles-->
 <!--Mint, Indigo, Crimson & Mauve -->
