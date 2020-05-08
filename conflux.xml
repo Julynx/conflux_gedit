@@ -67,9 +67,9 @@
   <style name="def:character"               foreground="white"/>
   <style name="def:comment"                 foreground="cactus" italic="true"/>
   <style name="def:number"                  foreground="white"/>
-  <style name="def:decimal"					foreground="white"/>
+  <style name="def:decim Ital"			  foreground="white"/>
   <style name="def:base-n-integer"          foreground="white"/>
-  <style name="def:floating-point"			foreground="white"/>
+  <style name="def:floating-point"		  foreground="white"/>
   <style name="def:complex"                 foreground="white"/>
   <style name="def:string"                  foreground="amaranth"/>
   <style name="def:net-address-in-comment"  foreground="white" italic="true" underline="true"/>
@@ -80,7 +80,7 @@
   <style name="def:doc-comment-element"     italic="true"/>
   <style name="def:identifier"              foreground="amber" bold="false"/>
   <style name="def:inline-identifier"       foreground="amaranth" bold="false"/>
-  <style name="def:builtin"					foreground="white" bold="false"/>
+  <style name="def:builtin"				 foreground="white" bold="false"/>
   <style name="def:specials"                foreground="white" background="amaranth"/>
   <style name="def:variable"                foreground="amber"/>
   <style name="def:boolean"                 foreground="ice" bold="true"/>
