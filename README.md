@@ -50,6 +50,6 @@
  
   CONTACT
  
- Julio Cabria - juli.cabria@outlook.com
+ Julio Cabria - julicabria@outlook.com
  Official Website - https://conflux.carrd.co/
  GitHub - https://github.com/Julynx/conflux_main
