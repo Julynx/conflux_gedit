@@ -26,7 +26,7 @@
         
  Manual (Recommended)
  
- - Extract the ZIP to a safe location.   
+ - Extract the ZIP to a safe location.
  - Open Gedit and travel to Preferences / Font & Colors / Color Scheme.
  - Select the file "conflux.xml" using the "Install Scheme" button, 
    marked with a "+" sign.
@@ -38,13 +38,13 @@
     - Right click, go to Properties / Permissions and tick the box
       labelled as "Allow executing file as a program".
     OR
-    - Open a terminal inside the main folder and enter the following  
-      command: "chmod 777 install".      
- - Run the script with the command "./install".  
+    - Open a terminal inside the main folder and enter the following
+      command: "chmod 777 install".
+ - Run the script with the command "./install".
 
   UNINSTALL
 
-- Open Gedit and travel to Preferences / Font & Colors / Color Scheme.
+ - Open Gedit and travel to Preferences / Font & Colors / Color Scheme.
  - Select the Conflux color scheme and remove it with the "Uninstall Scheme" 
  button, marked with a "-" sign.
  
