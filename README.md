@@ -1,4 +1,3 @@
-
     DESCRIPTION
  
  This color palette was inspired by the crimson editor
@@ -25,14 +24,14 @@
  
     INSTALLATION
     
-    1) Manual (Recommended)
+Manual (Recommended)
  
  - Extract the ZIP to a safe location.   
  - Open Gedit and travel to Preferences / Font & Colors / Color Scheme.
  - Select the file "conflux.xml" using the "Install Scheme" button, 
    marked with a "+" sign.
     
-    2) Auto
+Auto
     
  - Extract the ZIP to a safe location.
  - Mark the installation script ("install") as executable.
@@ -43,7 +42,7 @@
       command: "chmod 777 install".      
  - Run the script with the command "./install".  
  
-    UNINSTALLING
+    UNINSTALL
     
  - Open Gedit and travel to Preferences / Font & Colors / Color Scheme.
  - Select the Conflux color scheme and remove it with the "Uninstall Scheme" 
