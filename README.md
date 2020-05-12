@@ -1,11 +1,11 @@
-        DESCRIPTION
+  DESCRIPTION
  
  This color palette was inspired by the crimson editor
  gedit theme by Dan VanMullen. All 8 colors are equally distributed 
  among the hue wheel, illustrating the armonious consonance of nature 
  and programming.
  
-        LICENSING
+  LICENSING
 
  This library is free software; you can redistribute it and/or
  modify it under the terms of the GNU Library General Public
@@ -22,15 +22,16 @@
  Free Software Foundation, Inc., 59 Temple Place - Suite 330,
  Boston, MA 02111-1307, USA.
  
-        INSTALLATION
-Manual (Recommended)
+  INSTALLATION
+        
+ Manual (Recommended)
  
  - Extract the ZIP to a safe location.   
  - Open Gedit and travel to Preferences / Font & Colors / Color Scheme.
  - Select the file "conflux.xml" using the "Install Scheme" button, 
    marked with a "+" sign.
     
-Auto
+ Auto
     
  - Extract the ZIP to a safe location.
  - Mark the installation script ("install") as executable.
@@ -41,13 +42,13 @@ Auto
       command: "chmod 777 install".      
  - Run the script with the command "./install".  
 
-        UNINSTALL
+  UNINSTALL
 
 - Open Gedit and travel to Preferences / Font & Colors / Color Scheme.
  - Select the Conflux color scheme and remove it with the "Uninstall Scheme" 
  button, marked with a "-" sign.
  
-        CONTACT
+  CONTACT
  
  Julio Cabria - juli.cabria@outlook.com
  Official Website - https://conflux.carrd.co/
