@@ -9,7 +9,7 @@
  and programming.
 -->
 
-<style-scheme id="conflux" _name="Conflux" version="1.0">
+  <style-scheme id="conflux" _name="Conflux" version="1.0">
   <author>Julio Cabria</author>
   <_description>Color palette inspired by the crimson editor
   gedit theme by Dan VanMullen.</_description>
