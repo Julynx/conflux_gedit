@@ -1,3 +1,5 @@
+![alt text](Gedit_Conflux.png)
+
   DESCRIPTION
  
  This color palette was inspired by the crimson editor
