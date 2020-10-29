@@ -1,3 +1,7 @@
+# Conflux Gedit
+
+Conflux color theme for Gedit.
+
 ![alt text](Gedit_Conflux.png)
 
   DESCRIPTION
